@@ -1,0 +1,12 @@
+a. Attempting to unpack but didn't provide enough variables for all the items in the tuple
+b. Trying to access 11th element but there isn't an 11th element
+c. Attempting to reassign the first character but string indices cannot be changed since they don't accept index reassignment
+d. Attempting to read from list but the indice must be an integer or slice
+e. Attempting to reassign the value of the first item in the tuple but tuples are immutable so you can't change the value at that index
+f. Attempting to add an item to the tuple but it needs to be in a tuple
+g. Attempting to add B and C to the A literal but a literal values cannot be modified
+h. Attempting to print the value of x but it has been deleted so it is not defined
+i. Attempting to get the index of the first instance of 10 but there is no value 10 in the list
+j. Attempting to add numbers to list but extend only takes a single iterable as a argument
+k. Attempting to remove the value 10 from the list but there is no value of 10 in the list
+l. Attempting to remove the last value of the list but the list has no values
